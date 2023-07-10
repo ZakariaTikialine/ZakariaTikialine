@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZakariaTikialine
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning WEB
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me z_tikialine@estin.dz
 
 <!---
