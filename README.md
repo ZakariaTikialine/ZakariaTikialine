@@ -1,5 +1,5 @@
 <h1>Hi there, It's me <span>Zakaria Tikialine</span></h1>
-<h2>- I’m kinda interested in AI and DS </h2>
+<h2>- I’m interested in AI and CyberSecurity </h2>
 <h2>- I’m currently learning MERN stack</h2>
 <h2>- How to reach me z_tikialine@estin.dz</h2>
 
