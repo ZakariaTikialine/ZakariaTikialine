@@ -1,4 +1,4 @@
-  <h2 align="left">Hi there!🫡 it's me Zakaria Tikialine from algeria a Junior Full Stack Developer && Student at Estin🧑‍💻</h2>
+  <h2 align="left">Hi there!🫡 it's me Zakaria Tikialine an Algerian Junior Full Stack Developer && Student at Estin🧑‍💻</h2>
 
 ###
 
