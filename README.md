@@ -1,10 +1,11 @@
-  <h2 align="left">Hi there!🫡 it's me Zakaria Tikialine an Algerian Junior Full Stack Developer && Student at Estin🧑‍💻</h2>
+  <h2 align="left">Hi there!🫡 it's me Zakaria Tikialine an Algerian Web Developer && CS Student at Estin🧑‍💻</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZakariaTikialine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaTikialine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaTikialine&theme=monokai&hide_border=false&count_private=true&disable_animations=false" height="200" alt="stats graph" />
 </div>
 
 ###
