@@ -1,4 +1,4 @@
-  <h2 align="left">Hi there!🫡 it's me Zakaria Tikialine an Algerian Web Developer && CS Student at Estin🧑‍💻</h2>
+  <h2 align="left">Hi there!🫡 it's me Zakaria Tikialine an Algerian Web Developer && AI/DS ENG Student at Estin🧑‍💻</h2>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
