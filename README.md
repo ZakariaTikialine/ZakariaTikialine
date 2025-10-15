@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 🫡 I'm <span style="color:#ff79c6;">Zakaria Tikialine</span></h1>
+<h1 align="center">Hi there! I'm <span style="color:#ff79c6;">Zakaria Tikialine</span></h1>
 <h3 align="center">🇩🇿 Algerian Web Developer & AI/Data Science Engineering Student @ ESTIN 👨‍💻</h3>
 
 <p align="center">
