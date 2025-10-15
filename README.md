@@ -3,9 +3,29 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaTikialine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaTikialine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=false" height="200" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaTikialine&theme=monokai&hide_border=false&count_private=true&disable_animations=false" height="200" alt="stats graph" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ZakariaTikialine&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=false" 
+    height="180" 
+    width="390" 
+    alt="GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaTikialine&layout=compact&langs_count=10&theme=monokai&hide_border=false" 
+    height="180" 
+    width="390" 
+    alt="Top Languages" 
+  />
+
+  <img 
+  src="https://denvercoder1-github-readme-streak-stats.vercel.app/?user=ZakariaTikialine&theme=monokai&hide_border=false" 
+  height="180" 
+  width="390" 
+  alt="GitHub Streak"
+/>
+
+
 </div>
 
 ###
