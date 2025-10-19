@@ -10,26 +10,25 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ZakariaTikialine&show_icons=true&include_all_commits=true&count_private=true&theme=monokai" 
+    src="https://github-readme-stats.vercel.app/api?username=ZakariaTikialine&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" 
     height="180" 
     width="390" 
     alt="GitHub Stats" 
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaTikialine&layout=compact&langs_count=10&theme=monokai" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaTikialine&layout=compact&langs_count=10&theme=tokyonight" 
     height="180" 
     width="390" 
     alt="Top Languages" 
   />
   
   <img 
-    src="https://nirzak-streak-stats.vercel.app?user=ZakariaTikialine&theme=monokai"
+    src="https://nirzak-streak-stats.vercel.app?user=ZakariaTikialine&theme=tokyonight"
     alt="GitHub Streak"
     height="180" 
     width="390"
   />
-
 
 </div>
 
@@ -61,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
 </div>
 
-#### 🧠 Data Science & Tools
+#### 🧠 Data Science & AI Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
