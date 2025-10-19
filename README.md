@@ -91,6 +91,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/ZakariaTikialine/ZakariaTikialine/output/snake.svg" alt="Snake animation" />
+
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>  
   <br/>Always learning, building, and experimenting with new technologies!
