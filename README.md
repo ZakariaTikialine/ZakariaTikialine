@@ -22,6 +22,15 @@
     width="390" 
     alt="Top Languages" 
   />
+  
+  <img 
+    src="https://nirzak-streak-stats.vercel.app?user=ZakariaTikialine&theme=monokai"
+    alt="GitHub Streak"
+    height="180" 
+    width="390"
+  />
+
+
 </div>
 
 ---
