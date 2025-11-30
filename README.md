@@ -14,9 +14,9 @@
     height="180" 
     width="390" 
     alt="GitHub Stats" 
-  />
+  /> -->
 
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaTikialine&layout=compact&langs_count=10&theme=tokyonight" 
     height="180" 
     width="390" 
