@@ -9,19 +9,19 @@
 ---
 
 <div align="center">
-  <!-- <img 
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=ZakariaTikialine&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" 
     height="180" 
     width="390" 
     alt="GitHub Stats" 
-  /> -->
+  />
 
-  <!-- <img 
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ZakariaTikialine&layout=compact&langs_count=10&theme=tokyonight" 
     height="180" 
     width="390" 
     alt="Top Languages" 
-  /> -->
+  />
   
   <img 
     src="https://nirzak-streak-stats.vercel.app?user=ZakariaTikialine&theme=tokyonight"
