@@ -6,9 +6,8 @@
   I love building sleek web apps, solving complex problems, and constantly learning new technologies!
 </p>
 
-<!-- 
 ---
-<div align="center">
+<!-- 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ZakariaTikialine&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" 
     height="180" 
@@ -23,6 +22,8 @@
     alt="Top Languages" 
   />
   
+-->
+<div align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app?user=ZakariaTikialine&theme=tokyonight"
     alt="GitHub Streak"
@@ -30,7 +31,7 @@
     width="390"
   /> 
 </div>
--->
+
 ---
 
 <img align="right" height="350" src="https://media1.tenor.com/m/lwgh2IkY8JsAAAAC/kimetsu-no-yaiba-rengoku.gif" alt="rengoku gif" />
