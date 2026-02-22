@@ -26,7 +26,7 @@
 ▸ I like hard problems and clean solutions  
 ▸ *"Code is like humor. When you have to explain it, it's bad."*
 
-<br/>
+<br/><br/>
 
 ---
 
