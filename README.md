@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" height="200" src="https://media1.tenor.com/m/lwgh2IkY8JsAAAAC/kimetsu-no-yaiba-rengoku.gif" />
+<img align="right" height="200" src="https://media1.tenor.com/m/qnxOUmKO30sAAAAd/gojo-satoru.gif" />
 
 ### 👤 About Me
 
