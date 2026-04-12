@@ -71,9 +71,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=ZakariaTikialine&theme=tokyonight&hide_border=true" height="180" />
-</div>
+</div> -->
 
 <br/>
 
