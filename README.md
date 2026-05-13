@@ -160,7 +160,7 @@ Currently obsessed with: **LLM internals**...
 
 
 
-<div align="center">
+<!-- <div align="center">
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td width="55%" align="center">
@@ -171,7 +171,7 @@ Currently obsessed with: **LLM internals**...
     </td>
   </tr>
 </table>
-</div>
+</div> -->
 
 ---
 
