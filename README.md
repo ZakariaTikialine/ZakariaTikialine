@@ -1,5 +1,5 @@
 <!-- ============================================================
-     Zakaria Tikialine — GitHub Profile README.
+     Zakaria Tikialine — GitHub Profile README
      ============================================================ -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=AI+%26+Data+Engineering+%40+ESTIN;Full-Stack+dev+who+actually+ships;LLMs+%7C+Pipelines+%7C+Clean+Code;If+it+can+be+built%2C+I+will+build+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=AI+%26+Data+Engineering+%40+ESTIN;Front-End+Developer+%40+Egor+Gaming;Full-Stack+dev+who+actually+ships;LLMs+%7C+Pipelines+%7C+Clean+Code." alt="Typing SVG" />
 
 <br/>
 
@@ -36,7 +36,8 @@ name        : Zakaria Tikialine
 location    : Algeria 🇩🇿
 studies     : AI & Data Engineering @ ESTIN (2022 → 2027)
 certified   : Associate Data Scientist — DataCamp
-experience  : Full Stack Intern @ NAFTAL (Jun–Jul 2025)
+current     : Front-End Developer @ Egor Gaming
+experience  : ex Full Stack Intern @ NAFTAL (Jun–Jul 2025)
 status      : Building things that shouldn't exist yet
 interests   : [LLMs, distributed systems, data pipelines]
 ikigai      : The space between a working idea and deployed code
@@ -142,6 +143,13 @@ Currently obsessed with: **LLM internals**...
 ---
 
 ## `> cat ./experience`
+
+```
+🎮 Egor Gaming                                                  Current
+   Front-End Developer
+   └─ Building & shipping production frontend features for a live gaming product
+   └─ Responsive, performant interfaces · shared component work · real product team
+```
 
 ```
 📍 NAFTAL – DCSI                                           Jun 2025 – Jul 2025
