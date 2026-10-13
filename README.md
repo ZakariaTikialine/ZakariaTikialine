@@ -1,201 +1,126 @@
-<!-- ============================================================
-     Zakaria Tikialine — GitHub Profile README.
-     ============================================================ -->
+<!-- Profile README · Zakaria Tikialine · rev. B · 2026.10 -->
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sheet-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sheet-light.svg">
+  <img alt="Zakaria Tikialine, Software Engineer. Frontend and full-stack development, AI and data engineering. Open to freelance." src="./assets/sheet-light.svg" width="100%">
+</picture>
 
-```
-███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗ █████╗
-╚══███╔╝██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗██║██╔══██╗
-  ███╔╝ ███████║█████╔╝ ███████║██████╔╝██║███████║
- ███╔╝  ██╔══██║██╔═██╗ ██╔══██║██╔══██╗██║██╔══██║
-███████╗██║  ██║██║  ██╗██║  ██║██║  ██║██║██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=AI+%26+Data+Engineering+%40+ESTIN;Front-End+Developer+%40+Egor+Gaming;Full-Stack+dev+who+actually+ships;LLMs+%7C+Pipelines+%7C+Clean+Code." alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.zakaria-tikialine.tech/en"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zakaria-tikialine-68857025b/"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:zakariatikia@gmail.com"><b>Email</b></a>
+</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-tikialine-68857025b/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakatiatikia@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet&logoColor=white)](https://www.zakaria-tikialine.tech/en)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zaakiiii_/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/zaakiiii_)
+### 01 &nbsp;Profile
 
-</div>
+I'm a software engineer in the final year of an engineering degree in AI & Data at ESTIN, and a front-end developer on a live gaming platform. Most of my work so far has been shipping web products end to end: the interface, the API behind it, and the database under that.
 
----
-
-## `> whoami`
-
-<img align="right" height="190" src="https://media1.tenor.com/m/qnxOUmKO30sAAAAd/gojo-satoru.gif" />
-
-```yaml
-name        : Zakaria Tikialine
-location    : Algeria 🇩🇿
-studies     : AI & Data Engineering @ ESTIN (2022 → 2027)
-certified   : Associate Data Scientist — DataCamp
-current     : Front-End Developer @ Egor Gaming
-experience  : ex Full Stack Intern @ NAFTAL (Jun–Jul 2025)
-status      : Building things that shouldn't exist yet
-interests   : [LLMs, distributed systems, data pipelines]
-ikigai      : The space between a working idea and deployed code
-```
-
-I don't chase trends ... I chase **understanding**.  
-Whether it's wiring a full-stack app end-to-end or training a model  
-from scratch, I care about *why* it works, not just *that* it works.
-
-Currently obsessed with: **LLM internals**...
+The layer I'm building toward is the one after: data pipelines and machine learning systems that end up in front of real users, not in a notebook.
 
 <br/>
 
----
+### 02 &nbsp;Selected work
 
-## `> ls ./stack`
+**Tahwisa** &nbsp;<sub>NAFTAL · 2025 · Next.js, Express, PostgreSQL, TypeScript</sub>
 
-<details open>
-<summary><b>🖥️ Frontend</b></summary>
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🧠 AI / Data</b></summary>
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & DevOps</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
-</details>
-
----
-
-## `> ls ./projects`
-
-<table border="0" cellspacing="0" cellpadding="10">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Tahwisa</h3>
-      <p>Employee registration & travel management platform built for <b>NAFTAL</b> — a multi-center org with real production users.</p>
-      <ul>
-        <li>Auth system with full RBAC</li>
-        <li>Normalized PostgreSQL schemas + optimized queries</li>
-        <li>Automated participant selection logic</li>
-        <li>Deployed in a live production environment</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-    </td>
+    <td width="130" valign="top"><sub>CONTEXT</sub></td>
+    <td>NAFTAL needed one platform for employee registration and travel management across its centers.</td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>CONTRIBUTION</sub></td>
+    <td>Built the full system: REST API with role-based access control, a normalized PostgreSQL schema with tuned queries, automated participant selection, and the Next.js interface.</td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>OUTCOME</sub></td>
+    <td>Deployed to production and used by NAFTAL staff. <sub>Source is private.</sub></td>
   </tr>
 </table>
 
----
+**Frontend architecture migration** &nbsp;<sub>Egor Gaming · 2026 · Next.js, TypeScript</sub>
 
-## `> cat ./experience`
-
-```
-🎮 Egor Gaming                                                  Current
-   Front-End Developer
-   └─ Building & shipping production frontend features for a live gaming product
-   └─ Responsive, performant interfaces · shared component work · real product team
-```
-
-```
-📍 NAFTAL – DCSI                                           Jun 2025 – Jul 2025
-   Full Stack Web Developer Intern
-   └─ Built a production travel management system across multiple org centers
-   └─ Secure REST APIs with RBAC · PostgreSQL schema design · Next.js frontend
-```
-
-<div align="center">
-
-[![DataCamp](https://img.shields.io/badge/Associate_Data_Scientist-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com)
-
-</div>
-
-
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="8">
+<table>
   <tr>
-    <td width="55%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ZakariaTikialine&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true" />
-    </td>
-    <td width="45%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaTikialine&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" />
-    </td>
+    <td width="130" valign="top"><sub>CONTEXT</sub></td>
+    <td>A live competitive gaming platform (tournaments, messaging, player accounts) whose codebase had grown as one flat components folder.</td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>CONTRIBUTION</sub></td>
+    <td>Led the move to a feature-based architecture, one product domain at a time across 17 domains. Ran a platform-wide bug audit and wrote the API contract gap report for the backend team.</td>
   </tr>
 </table>
-</div>
 
----
+**Custom e-commerce platform** &nbsp;<sub>Freelance · 2026 · in progress · Next.js, Express</sub>
 
-## `> ./snake --watch`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZakariaTikialine/ZakariaTikialine/output/snake.svg" alt="contribution snake" />
-</div>
-
----
-
-<div align="center">
-
-**Open to**: collabs, interesting problems, and people who care about what they build.  
-**Not open to**: vague DMs. If you have something real to say, say it.
+<table>
+  <tr>
+    <td width="130" valign="top"><sub>CONTEXT</sub></td>
+    <td>A T-shirt brand that wanted its own store, not a template.</td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>CONTRIBUTION</sub></td>
+    <td>Next.js storefront, Express API and a hosted database with backups, built from scratch.</td>
+  </tr>
+</table>
 
 <br/>
 
-*Always learning. Always shipping. Mostly caffeinated.*
+### 03 &nbsp;Experience
 
-</div>
+| Period | Role | Organisation |
+| :-- | :-- | :-- |
+| May 2026 – present | Front-End Developer | Egor Gaming |
+| Jun – Jul 2025 | Full-Stack Developer, intern | NAFTAL · DCSI |
+| 2022 – 2027 | Engineering degree, AI & Data | ESTIN, Béjaïa |
+
+Certified **Associate Data Scientist**, DataCamp.
+
+<br/>
+
+### 04 &nbsp;Working together
+
+I take on freelance projects alongside my role, mostly:
+
+- **Web applications and internal tools** — registration systems, admin panels, dashboards
+- **E-commerce and product sites** — custom built, fast, and yours to own
+- **Data work** — database design, reporting, and wiring data into an existing product
+
+How a project runs: a short call and a written scope with a fixed quote, then weekly progress on a live preview link, then deployment and a handover with the full source code.
+
+<br/>
+
+### 05 &nbsp;Toolkit
+
+| Layer | Primary | Also used |
+| :-- | :-- | :-- |
+| Interface | TypeScript, React, Next.js, Tailwind CSS | Redux |
+| Services | Node.js, Express, REST, WebSockets | Go |
+| Data | PostgreSQL, SQL | MongoDB, Redis, MySQL, Oracle |
+| ML & analysis | Python, Pandas, NumPy, scikit-learn | PyTorch, TensorFlow, OpenCV |
+| Delivery | Git, Docker, Linux, Vercel, Railway | |
+
+<br/>
+
+### 06 &nbsp;Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakariaTikialine/ZakariaTikialine/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakariaTikialine/ZakariaTikialine/output/snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/ZakariaTikialine/ZakariaTikialine/output/snake.svg" width="100%">
+</picture>
+
+<sub>Fig. B — Contribution graph, redrawn daily.</sub>
+
+<br/><br/>
+
+---
+
+<p align="center">
+  Hiring, or have a project in mind? Write to <a href="mailto:zakariatikia@gmail.com">zakariatikia@gmail.com</a> with what you're building and when you need it.
+  <br/><br/>
+  <sub>Sheet 01 of 01 · Rev. B · October 2026</sub>
+</p>

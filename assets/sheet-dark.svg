@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="t d">
+<title id="t">Zakaria Tikialine, Software Engineer</title>
+<desc id="d">Profile drawn as an engineering sheet. Frontend, full-stack, AI and data. Revisions: A, 2025, full-stack intern at NAFTAL. B, 2026, front-end developer at Egor Gaming. C, 2027, engineering degree at ESTIN. Status: open to freelance.</desc>
+<style>
+  .ink{fill:#E6EDF3} .mu{fill:#8B949E} .ac{fill:#F2845C}
+  .sans{font-family:-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+  .ln{stroke:#E6EDF3;fill:none} .fl{stroke:#30363D;fill:none}
+  .flow{stroke:#F2845C;stroke-width:2;stroke-dasharray:3 9;fill:none;animation:flow 1.6s linear infinite}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}
+  @keyframes flow{to{stroke-dashoffset:-24}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  @media (prefers-reduced-motion: reduce){.flow,.pulse{animation:none}}
+</style>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9" fill="none" stroke="#E6EDF3" stroke-width="1.4"/></marker></defs>
+<rect width="1200" height="440" fill="#0D1117"/>
+<rect class="ln" x="10.5" y="10.5" width="1179" height="419" stroke-width="1.5"/>
+<rect class="ln" x="30.5" y="30.5" width="1139" height="379" stroke-width="1"/>
+<line class="ln" x1="220.5" y1="10" x2="220.5" y2="30" stroke-width="1"/>
+<line class="ln" x1="220.5" y1="410" x2="220.5" y2="430" stroke-width="1"/>
+<line class="ln" x1="410.5" y1="10" x2="410.5" y2="30" stroke-width="1"/>
+<line class="ln" x1="410.5" y1="410" x2="410.5" y2="430" stroke-width="1"/>
+<line class="ln" x1="600.5" y1="10" x2="600.5" y2="30" stroke-width="1"/>
+<line class="ln" x1="600.5" y1="410" x2="600.5" y2="430" stroke-width="1"/>
+<line class="ln" x1="790.5" y1="10" x2="790.5" y2="30" stroke-width="1"/>
+<line class="ln" x1="790.5" y1="410" x2="790.5" y2="430" stroke-width="1"/>
+<line class="ln" x1="980.5" y1="10" x2="980.5" y2="30" stroke-width="1"/>
+<line class="ln" x1="980.5" y1="410" x2="980.5" y2="430" stroke-width="1"/>
+<text class="mono mu" x="125.0" y="24" font-size="10" text-anchor="middle">1</text>
+<text class="mono mu" x="125.0" y="424" font-size="10" text-anchor="middle">1</text>
+<text class="mono mu" x="315.0" y="24" font-size="10" text-anchor="middle">2</text>
+<text class="mono mu" x="315.0" y="424" font-size="10" text-anchor="middle">2</text>
+<text class="mono mu" x="505.0" y="24" font-size="10" text-anchor="middle">3</text>
+<text class="mono mu" x="505.0" y="424" font-size="10" text-anchor="middle">3</text>
+<text class="mono mu" x="695.0" y="24" font-size="10" text-anchor="middle">4</text>
+<text class="mono mu" x="695.0" y="424" font-size="10" text-anchor="middle">4</text>
+<text class="mono mu" x="885.0" y="24" font-size="10" text-anchor="middle">5</text>
+<text class="mono mu" x="885.0" y="424" font-size="10" text-anchor="middle">5</text>
+<text class="mono mu" x="1075.0" y="24" font-size="10" text-anchor="middle">6</text>
+<text class="mono mu" x="1075.0" y="424" font-size="10" text-anchor="middle">6</text>
+<line class="ln" x1="10" y1="157.2" x2="30" y2="157.2" stroke-width="1"/>
+<line class="ln" x1="1170" y1="157.2" x2="1190" y2="157.2" stroke-width="1"/>
+<line class="ln" x1="10" y1="283.8" x2="30" y2="283.8" stroke-width="1"/>
+<line class="ln" x1="1170" y1="283.8" x2="1190" y2="283.8" stroke-width="1"/>
+<text class="mono mu" x="20" y="97.3" font-size="10" text-anchor="middle">A</text>
+<text class="mono mu" x="1180" y="97.3" font-size="10" text-anchor="middle">A</text>
+<text class="mono mu" x="20" y="224.0" font-size="10" text-anchor="middle">B</text>
+<text class="mono mu" x="1180" y="224.0" font-size="10" text-anchor="middle">B</text>
+<text class="mono mu" x="20" y="350.7" font-size="10" text-anchor="middle">C</text>
+<text class="mono mu" x="1180" y="350.7" font-size="10" text-anchor="middle">C</text>
+<text class="mono ac" x="64" y="84" font-size="12" letter-spacing="3">SOFTWARE ENGINEER</text>
+<text class="sans ink" x="62" y="142" font-size="54" font-weight="600" letter-spacing="-1">Zakaria Tikialine</text>
+<text class="sans mu" x="64" y="178" font-size="18">Frontend &amp; full-stack development  ·  AI &amp; data engineering</text>
+<text class="mono mu" x="64" y="244" font-size="10" letter-spacing="2">FIG. A — WHERE I WORK</text>
+<rect class="ln" x="64.5" y="262.5" width="150" height="56" stroke-width="1.2"/>
+<text class="mono mu" x="76" y="281" font-size="10" letter-spacing="1.5">01  INTERFACE</text>
+<text class="sans ink" x="76" y="304" font-size="15">React · Next.js</text>
+<line class="ln" x1="216" y1="290.0" x2="248" y2="290.0" stroke-width="1.2" marker-end="url(#arr)"/>
+<line class="flow" x1="216" y1="298.0" x2="246" y2="298.0"/>
+<rect class="ln" x="250.5" y="262.5" width="150" height="56" stroke-width="1.2"/>
+<text class="mono mu" x="262" y="281" font-size="10" letter-spacing="1.5">02  SERVICES</text>
+<text class="sans ink" x="262" y="304" font-size="15">Node · Express</text>
+<line class="ln" x1="402" y1="290.0" x2="434" y2="290.0" stroke-width="1.2" marker-end="url(#arr)"/>
+<line class="flow" x1="402" y1="298.0" x2="432" y2="298.0"/>
+<rect class="ln" x="436.5" y="262.5" width="150" height="56" stroke-width="1.2"/>
+<text class="mono mu" x="448" y="281" font-size="10" letter-spacing="1.5">03  DATA</text>
+<text class="sans ink" x="448" y="304" font-size="15">PostgreSQL · SQL</text>
+<line class="ln" x1="588" y1="290.0" x2="620" y2="290.0" stroke-width="1.2" marker-end="url(#arr)"/>
+<line class="flow" x1="588" y1="298.0" x2="618" y2="298.0"/>
+<rect class="ln" x="622.5" y="262.5" width="150" height="56" stroke-width="1.2"/>
+<text class="mono mu" x="634" y="281" font-size="10" letter-spacing="1.5">04  MODELS</text>
+<text class="sans ink" x="634" y="304" font-size="15">Python · PyTorch</text>
+<line class="fl" x1="64.5" y1="322" x2="64.5" y2="364" stroke-width="1" stroke-dasharray="2 3"/>
+<line class="fl" x1="772.5" y1="322" x2="772.5" y2="364" stroke-width="1" stroke-dasharray="2 3"/>
+<line class="ln" x1="66" y1="356" x2="771" y2="356" stroke-width="1" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<rect x="290.0" y="347" width="256" height="18" fill="#0D1117"/>
+<text class="mono ink" x="418.0" y="360" font-size="11" letter-spacing="1.5" text-anchor="middle">END TO END · UI → MODEL</text>
+<text class="mono mu" x="820" y="56" font-size="10" letter-spacing="2">REVISIONS</text>
+<rect class="ln" x="820.5" y="64.5" width="326" height="106" stroke-width="1"/>
+<line class="ln" x1="820" y1="86.5" x2="1146" y2="86.5" stroke-width="1"/>
+<line class="ln" x1="864.5" y1="64" x2="864.5" y2="170" stroke-width="1"/>
+<line class="ln" x1="940.5" y1="64" x2="940.5" y2="170" stroke-width="1"/>
+<text class="mono mu" x="830" y="79" font-size="9" letter-spacing="1.5">REV</text>
+<text class="mono mu" x="874" y="79" font-size="9" letter-spacing="1.5">DATE</text>
+<text class="mono mu" x="950" y="79" font-size="9" letter-spacing="1.5">DESCRIPTION</text>
+<text class="mono ink" x="830" y="104" font-size="11">A</text>
+<text class="mono ink" x="874" y="104" font-size="11">2025.06</text>
+<text class="mono ink" x="950" y="104" font-size="11">Full-stack intern · NAFTAL</text>
+<line class="fl" x1="820" y1="114.5" x2="1146" y2="114.5" stroke-width="1"/>
+<text class="mono ac" x="830" y="132" font-size="11">B</text>
+<text class="mono ac" x="874" y="132" font-size="11">2026.05</text>
+<text class="mono ac" x="950" y="132" font-size="11">Front-end dev · Egor Gaming</text>
+<line class="fl" x1="820" y1="142.5" x2="1146" y2="142.5" stroke-width="1"/>
+<text class="mono ink" x="830" y="160" font-size="11">C</text>
+<text class="mono ink" x="874" y="160" font-size="11">2027</text>
+<text class="mono ink" x="950" y="160" font-size="11">Engineer's degree · ESTIN</text>
+<rect class="ln" x="820.5" y="232.5" width="326" height="154" stroke-width="1.5"/>
+<line class="ln" x1="820" y1="270.5" x2="1146" y2="270.5" stroke-width="1"/>
+<line class="ln" x1="820" y1="308.5" x2="1146" y2="308.5" stroke-width="1"/>
+<line class="ln" x1="820" y1="346.5" x2="1146" y2="346.5" stroke-width="1"/>
+<line class="ln" x1="983.5" y1="308" x2="983.5" y2="346" stroke-width="1"/>
+<line class="ln" x1="929.2" y1="346" x2="929.2" y2="386" stroke-width="1"/>
+<line class="ln" x1="1037.8" y1="346" x2="1037.8" y2="386" stroke-width="1"/>
+<text class="mono mu" x="830" y="245" font-size="9" letter-spacing="1.5">DISCIPLINE</text>
+<text class="sans ink" x="830" y="263" font-size="14">Software Engineering</text>
+<text class="mono mu" x="830" y="283" font-size="9" letter-spacing="1.5">SPECIALTY</text>
+<text class="sans ink" x="830" y="301" font-size="14">Frontend · Full-stack · AI &amp; Data</text>
+<text class="mono mu" x="830" y="321" font-size="9" letter-spacing="1.5">LOCATION</text>
+<text class="sans ink" x="830" y="339" font-size="14">Algeria</text>
+<text class="mono mu" x="993.0" y="321" font-size="9" letter-spacing="1.5">STATUS</text>
+<circle class="ac pulse" cx="997.0" cy="335" r="4"/>
+<text class="sans ink" x="1007.0" y="339" font-size="14">Open to freelance</text>
+<text class="mono mu" x="830" y="360" font-size="9" letter-spacing="1.5">DRAWN BY</text>
+<text class="sans ink" x="830" y="378" font-size="14">Z. Tikialine</text>
+<text class="mono mu" x="938.6666666666666" y="360" font-size="9" letter-spacing="1.5">REV</text>
+<text class="sans ac" x="938.6666666666666" y="378" font-size="14">B</text>
+<text class="mono mu" x="1047.3333333333333" y="360" font-size="9" letter-spacing="1.5">SHEET</text>
+<text class="sans ink" x="1047.3333333333333" y="378" font-size="14">01 / 01</text>
+</svg>
