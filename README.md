@@ -54,19 +54,6 @@ The layer I'm building toward is the one after: data pipelines and machine learn
   </tr>
 </table>
 
-**Custom e-commerce platform** &nbsp;<sub>Freelance · 2026 · in progress · Next.js, Express</sub>
-
-<table>
-  <tr>
-    <td width="130" valign="top"><sub>CONTEXT</sub></td>
-    <td>A T-shirt brand that wanted its own store, not a template.</td>
-  </tr>
-  <tr>
-    <td valign="top"><sub>CONTRIBUTION</sub></td>
-    <td>Next.js storefront, Express API and a hosted database with backups, built from scratch.</td>
-  </tr>
-</table>
-
 <br/>
 
 ### 03 &nbsp;Experience
