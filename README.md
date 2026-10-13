@@ -73,7 +73,6 @@ Certified **Associate Data Scientist**, DataCamp.
 I take on freelance projects alongside my role, mostly:
 
 - **Web applications and internal tools** — registration systems, admin panels, dashboards
-- **E-commerce and product sites** — custom built, fast, and yours to own
 - **Data work** — database design, reporting, and wiring data into an existing product
 
 How a project runs: a short call and a written scope with a fixed quote, then weekly progress on a live preview link, then deployment and a handover with the full source code.
